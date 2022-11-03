@@ -11,6 +11,9 @@
   
 <!-- Badges -->
 <p>
+  <a href="https://www.python.org/downloads/release/python-3108/">
+    <img src="https://img.shields.io/badge/python-3.10.8-blue.svg">
+  </a>
   <a href="https://github.com/0xsysr3ll/mybb-brute/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/0xsysr3ll/mybb-brute" alt="contributors" />
   </a>
@@ -57,9 +60,9 @@ Because I didn't find any tool to do it, I decided to develop my own. And here i
 <!-- Prerequisites -->
 ### :bangbang: Prerequisites
 
-<img src="https://img.shields.io/github/pipenv/locked/python-version/0xsysr3ll/mybb-brute?style=flat-square">
+- Patience
 
-This tool has been tested on the latest version available at the time of the development (`1.8.31`)
+This tool has been tested on the latest version available of MyBB at the time of the development (`1.8.31`) but should work with
 
 <!-- Installation -->
 ### :gear: Installation
