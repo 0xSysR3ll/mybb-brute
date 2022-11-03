@@ -62,7 +62,7 @@ Because I didn't find any tool to do it, I decided to develop my own. And here i
 
 - Patience
 
-This tool has been tested on the latest version available of MyBB at the time of the development (`1.8.31`) but should work with
+This tool has been tested on the latest version available of MyBB at the time of the development (`1.8.31`) but should work with older versions also.
 
 <!-- Installation -->
 ### :gear: Installation
@@ -75,7 +75,7 @@ cd mybb-brute && pip3 install -r requirements.txt
 <!-- Usage -->
 ## :eyes: Usage
 
-> This tool can only be used on environments where there is no login attempts limiting (Labs, CTFs, etc)
+> This tool can only be used on environments where there is no login attempts limiting (Labs, CTFs, etc).
 By default, MyBB added an anti-bruteforce system - you can only do 3 login attempts. After that, you have to wait a certain amount of time + a captcha to solve.
 
 
